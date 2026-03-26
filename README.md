@@ -68,7 +68,7 @@ This edition includes an **affiliate-style ad footer**:
 
 - Marked with an **AD** badge
 - Clicking the ad text opens your default browser to a third-party website:
-  - `https://wavespeedai.pxf.io/QYO4Xz`
+  - [https://wavespeedai.pxf.io/QYO4Xz](https://wavespeedai.pxf.io/QYO4Xz) (A LLM API Aggregation Platform Providers)
 
 No third‑party ad scripts/iframes are embedded in the app UI.
 
