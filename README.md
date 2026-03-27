@@ -1,4 +1,4 @@
-# Best AI translator for Windows free—Bashige AI Translator
+# Best AI translator for Windows PC offline free—Bashige AI Translator
 
 **Bashige AI Translate** is a lightweight Windows desktop translator designed around four core principles:
 
